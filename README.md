@@ -4,7 +4,7 @@ Atom Simulation (OpenGL Mini Project)
 This project is a simple Atom simulation implemented in C using OpenGL (GLUT) .
 It visually represents the atomic structure of elements from Hydrogen (Z=1) up to Neon (Z=10) by simulating orbits and electron movement around the nucleus.
 
-📌 Features
+Features
 * Interactive simulation of atoms with orbiting electrons.
 * Supports elements: Hydrogen , Helium , Lithium , Beryllium , Boron , Carbon , Nitrogen , Oxygen , Fluorine , Neon .
 
@@ -22,7 +22,7 @@ Keyboard controls:
  - Esc → Resize window (700×700)
  - F10 → Toggle Fullscreen
   
-🖥️ Requirements
+Requirements
 OpenGL
  - GLUT (OpenGL Utility Toolkit)
  - C/C++ compiler (e.g., GCC)
@@ -35,7 +35,7 @@ sudo apt-get install freeglut3-dev
    - Visual Studio with OpenGL configured
    - MinGW with freeglut
 
-🚀 Compilation & Execution
+Compilation & Execution
   - Linux / macOS:
     gcc main.cpp -lGL -lGLU -lglut -lm -o atom_simulation
    ./atom_simulation
@@ -44,7 +44,7 @@ Windows (MinGW):
 g++ main.cpp -lfreeglut -lopengl32 -lglu32 -o atom_simulation.exe
 atom_simulation.exe
 
-🎮 Usage
+Usage
      - Run the program.
      - Press Enter to go from the home screen to the simulation screen.
      - Right-click to open the menu and select an element.
