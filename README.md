@@ -51,7 +51,4 @@ atom_simulation.exe
      - Left-click to start animation.
      - Use keyboard/mouse controls to interact with the simulation.
 
-📜 License :
-        This project is for educational purposes (mini-project). You are free to modify and use it for learning.
-    
-        Would you like me to also create the actual `README.md` file and save it alongside your `main.cpp` so you can directly push it to GitHub .
+
