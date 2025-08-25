@@ -8,13 +8,13 @@ It visually represents the atomic structure of elements from Hydrogen (Z=1) up t
 * Interactive simulation of atoms with orbiting electrons.
 * Supports elements: Hydrogen , Helium , Lithium , Beryllium , Boron , Carbon , Nitrogen , Oxygen , Fluorine , Neon .
 
-* Right-click context menu:
+Right-click context menu:
  - Select element
  - Start/Stop simulation
  - Go to home screen
  - Exit
   
-* Keyboard controls:
+Keyboard controls:
  - Enter → Go to main simulation screen
  - Spacebar → Resume rotation
  - S → Stop rotation
